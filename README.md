@@ -10,5 +10,9 @@ __*SEARCHING*__
 >> Pencarian merupakan proses untuk *retrieval* data. Hal ini dapat dilakukan dengan pernyataan __SELECT__ pada __SQL__. Pencarian merupakan mengambil kembali data pada tabel dengan menyertakan *clause* __*WHERE*__. Klausa __*WHERE*__ digunakan untuk mem*filter* data yang sesuai dengan kondisi pencarian.
 >
 >> *Syntax* untuk *statement* __SELECT__ adalah sebagai berikut :
->
 >>> __SELECT__ nama_field __FROM__ nama_tabel __WHERE__ kondisi_pencarian;
+>
+ term
+- [x] First.
+- [ ] Second.
+- [ ] Third.
