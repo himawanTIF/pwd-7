@@ -11,8 +11,3 @@ __*SEARCHING*__
 >
 >> *Syntax* untuk *statement* __SELECT__ adalah sebagai berikut :
 >>> __SELECT__ nama_field __FROM__ nama_tabel __WHERE__ kondisi_pencarian;
->
- term
-- [x] First.
-- [ ] Second.
-- [ ] Third.
