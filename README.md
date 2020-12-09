@@ -5,7 +5,7 @@
 # Praktikum Pemrograman Web Dinamis Pertemuan 7
 [Link Video Praktikum](https://drive.google.com/file/d/1mUIMk_ME3ARD3ZB-PvCnHPIdM-USWYIK/view)
 
-### Materi
+## Materi
 __*SEARCHING*__
 >> Pencarian merupakan proses untuk *retrieval* data. Hal ini dapat dilakukan dengan pernyataan __SELECT__ pada __SQL__. Pencarian merupakan mengambil kembali data pada tabel dengan menyertakan *clause* __*WHERE*__. Klausa __*WHERE*__ digunakan untuk mem*filter* data yang sesuai dengan kondisi pencarian.
 >
